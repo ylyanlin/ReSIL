@@ -1,4 +1,4 @@
-# ReS# ReSIL
+# ReSIL
 
 This is the open-source component of our paper "ReSIL: Revivifying Function Signature Inference using Deep Learning with Domain-Specific Knowledge", published in the 12th ACM Conference on Data and Application Security and Privacy  (CODASPY) 2022. 
 # Disclaimer
