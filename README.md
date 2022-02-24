@@ -67,14 +67,14 @@ Next, build TypeArmor:
     make
     make install
 
-# There are main four scripts in folder python-scripts which will extract information from a binary.
-## get groundtruth collected by LLVM 
+## There are main four scripts in folder python-scripts which will extract information from a binary.
+### get groundtruth collected by LLVM 
 python extract-gt.py ../../example
-## extract instruction bytes and function signature from a binary
+### extract instruction bytes and function signature from a binary
 python get_pickles.py --binary_folder ../example/  --output_dir ../clean_pickles --replace_call 0 --insert_ins 0 --only_integer 0 --filer_out 0
-## Insert our special summarized instructions to the instruction bytes, it relies on the static analysis tool typearmor
+### Insert our special summarized instructions to the instruction bytes, it relies on the static analysis tool typearmor
 python insert_ins.py --binary_folder ../example/ --output_dir ../insert_ins_pickles --replace_call 0 --insert_ins 1  --only_integer 0 --filer_out 0 --pickle-folder ../clean_pickles
-## correct the label for callees which actually do not use all arguments, it relies on typearmor and the groundtruth obtained by LLVM
+### correct the label for callees which actually do not use all arguments, it relies on typearmor and the groundtruth obtained by LLVM
 python fix_unread.py ../example/ ../insert_ins_pickles/cat-clang-O2.pkl ../final_pickles ../gt
 
 
