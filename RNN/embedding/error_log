@@ -1,0 +1,243 @@
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[83926] [214, 71, 1] # [214, 71, 1, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[16342] [214, 63, 0] # [214, 63]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[83926] [214, 71, 1] # [214, 71, 1, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[83926] [214, 71, 1] # [214, 71, 1, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[83926] [214, 71, 1] # [214, 71, 1, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[16342] [214, 63, 0] # [214, 63]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[83926] [214, 71, 1] # [214, 71, 1, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[1750] [214, 6] # [214, 6, 0, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[2827474504] [72, 214, 135, 168, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 168, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[1078449736] [72, 214, 71, 64, 0, 0, 0, 0] # [72, 214, 71, 64]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[201] [201] # [0, 201]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[201] [201] # [0, 201]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[201] [201] # [0, 201]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[201] [201] # [0, 201]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[83926] [214, 71, 1] # [214, 71, 1, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[16342] [214, 63, 0] # [214, 63]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[83926] [214, 71, 1] # [214, 71, 1, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[1750] [214, 6] # [214, 6, 0, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[2827474504] [72, 214, 135, 168, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 168, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[1078449736] [72, 214, 71, 64, 0, 0, 0, 0] # [72, 214, 71, 64]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[83926] [214, 71, 1] # [214, 71, 1, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[3632780872] [72, 214, 135, 216, 0, 0, 0, 0, 0, 0, 0] # [72, 214, 135, 216, 0, 0, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[16342] [214, 63, 0] # [214, 63]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[83926] [214, 71, 1] # [214, 71, 1, 0]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]
+[ERROR] different insns map to same integer!!!!
+format: [int_value] insn1 # insn2
+[448072] [72, 214, 6, 0, 0, 0, 0] # [72, 214, 6]

@@ -1,0 +1,550 @@
+Object: clang-64-O2-utillinux-mount
+Functions: 140
+
+[varargs]
+0x404290 = 5 (xasprintf) 
+
+[args]
+0x402420 = 0 (_init) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402b60 = 3 (_start) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 402b62 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402b90 = 4 (_dl_relocate_static_pie) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 402b90 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402ba0 = 0 (deregister_tm_clones) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402bd0 = 0 (register_tm_clones) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402c10 = 0 (__do_global_dtors_aux) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402c40 = 0 (frame_dummy) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402c50 = 2 (main) 
+reading for register 0: 402c64 
+reading for register 1: 402c61 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403c60 = 0 (close_stdout) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403d70 = 3 (table_parser_errcb) 
+reading for register 0: 
+reading for register 1: 403d70 
+reading for register 2: 403d78 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403db0 = 1 (exit_non_root) 
+reading for register 0: 403db4 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403e70 = 1 (option_to_longopt) 
+reading for register 0: 403e70 403e73 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403e90 = 1 (usage) 
+reading for register 0: 403e91 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404120 = 2 (append_option) 
+reading for register 0: 404128 
+reading for register 1: 404125 40412b 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4041c0 = 0 (print_version) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404330 = 2 (mk_exit_code) 
+reading for register 0: 40433d 
+reading for register 1: 40433b 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4043d0 = 1 (canonicalize_dm_name) 
+reading for register 0: 4043de 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4044c0 = 1 (absolute_path) 
+reading for register 0: 4044ce 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4045c0 = 1 (canonicalize_path) 
+reading for register 0: 4045cc 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4046b0 = 1 (canonicalize_path_restricted) 
+reading for register 0: 4046c1 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404810 = 0 (sanitize_env) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404ae0 = 1 (safe_getenv) 
+reading for register 0: 404ae3 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404b40 = 3 (__libc_csu_init) 
+reading for register 0: 404b5b 
+reading for register 1: 404b5e 
+reading for register 2: 404b44 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404bb0 = 4 (__libc_csu_fini) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 404bb0 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404bc0 = 0 (atexit) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404bd0 = 0 (_fini) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+
+[icall-args]
+0x402430 = 6 (_init.0)
+0x402b84 = 6 (_start.0)
+0x404b89 = 3 (__libc_csu_init.0)
+
+[plts]
+0x402450 = mnt_table_set_parser_errcb
+0x402460 = mnt_context_get_fs
+0x402470 = mnt_fs_get_source
+0x402480 = mnt_context_set_source
+0x402490 = mnt_context_is_restricted
+0x4024a0 = free
+0x4024b0 = mnt_unref_table
+0x4024c0 = mnt_fs_get_fstype
+0x4024d0 = mnt_context_mount
+0x4024e0 = __errno_location
+0x4024f0 = mnt_context_helper_executed
+0x402500 = strncmp
+0x402510 = _exit
+0x402520 = secure_getenv
+0x402530 = mnt_fs_set_target
+0x402540 = __fpending
+0x402550 = mnt_context_enable_fake
+0x402560 = warn
+0x402570 = ferror
+0x402580 = mnt_context_set_fstype
+0x402590 = mnt_context_is_fork
+0x4025a0 = mnt_table_next_fs
+0x4025b0 = textdomain
+0x4025c0 = vasprintf
+0x4025d0 = mnt_new_iter
+0x4025e0 = mnt_context_get_cache
+0x4025f0 = mnt_context_disable_swapmatch
+0x402600 = fclose
+0x402610 = bindtextdomain
+0x402620 = dcgettext
+0x402630 = strlen
+0x402640 = mnt_get_library_features
+0x402650 = mnt_cache_find_tag_value
+0x402660 = getuid
+0x402670 = getopt_long
+0x402680 = errx
+0x402690 = strchr
+0x4026a0 = printf
+0x4026b0 = warnx
+0x4026c0 = snprintf
+0x4026d0 = strrchr
+0x4026e0 = mnt_new_table
+0x4026f0 = mnt_context_next_mount
+0x402700 = mnt_context_enable_rwonly_mount
+0x402710 = fputs
+0x402720 = mnt_context_wait_for_children
+0x402730 = memset
+0x402740 = mnt_context_disable_helpers
+0x402750 = geteuid
+0x402760 = getcwd
+0x402770 = mnt_context_get_options
+0x402780 = mnt_context_set_tables_errcb
+0x402790 = mnt_new_context
+0x4027a0 = fputc
+0x4027b0 = memchr
+0x4027c0 = mnt_fs_get_target
+0x4027d0 = mnt_match_fstype
+0x4027e0 = strcmp
+0x4027f0 = fprintf
+0x402800 = mnt_context_set_fstab
+0x402810 = mnt_fs_get_srcpath
+0x402820 = realpath
+0x402830 = memcpy
+0x402840 = mnt_context_is_nocanonicalize
+0x402850 = prctl
+0x402860 = getgid
+0x402870 = mnt_context_enable_fork
+0x402880 = __xstat
+0x402890 = mnt_init_debug
+0x4028a0 = fgets_unlocked
+0x4028b0 = err
+0x4028c0 = mnt_context_set_target
+0x4028d0 = malloc
+0x4028e0 = mnt_new_cache
+0x4028f0 = mnt_context_get_target
+0x402900 = mnt_fs_is_pseudofs
+0x402910 = mnt_context_get_excode
+0x402920 = mnt_free_iter
+0x402930 = mnt_context_is_verbose
+0x402940 = mnt_unref_cache
+0x402950 = getegid
+0x402960 = mnt_context_enable_sloppy
+0x402970 = mnt_table_set_cache
+0x402980 = mnt_context_set_mflags
+0x402990 = setlocale
+0x4029a0 = mnt_context_get_mtab
+0x4029b0 = mnt_context_get_source
+0x4029c0 = mnt_get_library_version
+0x4029d0 = mnt_context_is_parent
+0x4029e0 = access
+0x4029f0 = fopen
+0x402a00 = mnt_pretty_path
+0x402a10 = mnt_context_set_options_pattern
+0x402a20 = mnt_free_context
+0x402a30 = mnt_context_disable_canonicalize
+0x402a40 = mnt_context_set_fstype_pattern
+0x402a50 = __cxa_atexit
+0x402a60 = mnt_context_append_options
+0x402a70 = exit
+0x402a80 = mnt_context_get_mflags
+0x402a90 = fwrite
+0x402aa0 = mnt_context_enable_verbose
+0x402ab0 = mnt_context_set_optsmode
+0x402ac0 = mnt_fs_get_options
+0x402ad0 = mnt_table_parse_fstab
+0x402ae0 = mnt_context_disable_mtab
+0x402af0 = strdup
+0x402b00 = mnt_tag_is_valid
+0x402b10 = setegid
+0x402b20 = mnt_fs_set_source
+0x402b30 = __ctype_b_loc
+0x402b40 = mnt_context_get_status
+0x402b50 = seteuid
+
+[disas-errors]
+
+[non-voids]
+0x402420 = _init
+0x402b60 = _start
+0x402ba0 = deregister_tm_clones
+0x402bd0 = register_tm_clones
+0x402c40 = frame_dummy
+0x402c50 = main
+0x403c60 = close_stdout
+0x403d70 = table_parser_errcb
+0x403db0 = exit_non_root
+0x403e70 = option_to_longopt
+0x403e90 = usage
+0x404120 = append_option
+0x4041c0 = print_version
+0x404290 = xasprintf
+0x404330 = mk_exit_code
+0x4043d0 = canonicalize_dm_name
+0x4044c0 = absolute_path
+0x4045c0 = canonicalize_path
+0x4046b0 = canonicalize_path_restricted
+0x404810 = sanitize_env
+0x404ae0 = safe_getenv
+0x404b40 = __libc_csu_init
+0x404bc0 = atexit
+
+[non-void-icalls]
+
+[prof-goals]
+0x402430 = _init.0 -> 0x404b40 = __libc_csu_init
+0x402b84 = _start.0 -> 0x402b60 = _start

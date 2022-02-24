@@ -1,0 +1,603 @@
+Object: libuuid.so.1.3.0
+Functions: 77
+
+[varargs]
+
+[args]
+0x1300 = 0 (_init) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x15e0 = 0 (targ15e0) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x15f0 = 0 (deregister_tm_clones) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x1620 = 0 (register_tm_clones) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x1660 = 0 (__do_global_dtors_aux) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x16a0 = 0 (frame_dummy) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x16b0 = 1 (uuid_clear) 
+reading for register 0: 16b4 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x16c0 = 2 (uuid_compare) 
+reading for register 0: 2580 2586 2592 259e 25aa 25b0 
+reading for register 1: 16c1 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x1730 = 2 (uuid_copy) 
+reading for register 0: 173c 
+reading for register 1: 1738 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x1750 = 0 (get_node_id.constprop.0) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x1880 = 2 (__uuid_generate_time) 
+reading for register 0: 1886 
+reading for register 1: 188b 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x1e60 = 1 (uuid_generate_time_generic) 
+reading for register 0: 1e69 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2270 = 1 (uuid_generate_time) 
+reading for register 0: 1e69 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2280 = 1 (uuid_generate_time_safe) 
+reading for register 0: 1e69 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2290 = 2 (__uuid_generate_random) 
+reading for register 0: 2298 
+reading for register 1: 229f 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2330 = 0 (uuid_generate_random) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2350 = 1 (uuid_generate) 
+reading for register 0: 235a 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x23c0 = 1 (uuid_is_null) 
+reading for register 0: 23c0 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x23f0 = 2 (uuid_pack) 
+reading for register 0: 23f0 23f6 2402 240e 241a 2420 
+reading for register 1: 23f4 23fe 240a 2416 241d 2424 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2430 = 2 (uuid_parse) 
+reading for register 0: 2439 
+reading for register 1: 2434 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2580 = 2 (uuid_unpack) 
+reading for register 0: 2580 2586 2592 259e 25aa 25b0 
+reading for register 1: 2584 258e 259a 25a6 25ad 25b4 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x25c0 = 3 (uuid_unparse_x) 
+reading for register 0: 2580 2586 2592 259e 25aa 25b0 
+reading for register 1: 25c6 
+reading for register 2: 25c2 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2630 = 2 (uuid_unparse_lower) 
+reading for register 0: 2580 2586 2592 259e 25aa 25b0 
+reading for register 1: 25c6 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2640 = 2 (uuid_unparse_upper) 
+reading for register 0: 2580 2586 2592 259e 25aa 25b0 
+reading for register 1: 25c6 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2650 = 2 (uuid_unparse) 
+reading for register 0: 2580 2586 2592 259e 25aa 25b0 
+reading for register 1: 25c6 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2660 = 2 (uuid_time) 
+reading for register 0: 2580 2586 2592 259e 25aa 25b0 
+reading for register 1: 2661 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x26f0 = 1 (uuid_type) 
+reading for register 0: 2580 2586 2592 259e 25aa 25b0 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2710 = 1 (uuid_variant) 
+reading for register 0: 2580 2586 2592 259e 25aa 25b0 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2750 = 0 (crank_random) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2800 = 2 (rand_get_number) 
+reading for register 0: 2801 
+reading for register 1: 2804 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x2830 = 0 (random_get_fd) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x28b0 = 2 (random_get_bytes) 
+reading for register 0: 28b9 
+reading for register 1: 28b4 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x29d0 = 0 (random_tell_source) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x29e4 = 0 (_fini) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+
+[icall-args]
+0x1310 = 6 (_init.0)
+
+[plts]
+0x1330 = __errno_location
+0x1340 = srandom
+0x1350 = strncpy
+0x1360 = fcntl
+0x1370 = write
+0x1380 = getpid
+0x1390 = fclose
+0x13a0 = dcgettext
+0x13b0 = strlen
+0x13c0 = getuid
+0x13d0 = uuid_generate_time
+0x13e0 = rewind
+0x13f0 = nanosleep
+0x1400 = ftruncate
+0x1410 = gettimeofday
+0x1420 = fscanf
+0x1430 = ioctl
+0x1440 = close
+0x1450 = read
+0x1460 = memcmp
+0x1470 = __tls_get_addr
+0x1480 = __uuid_generate_time
+0x1490 = fprintf
+0x14a0 = syscall
+0x14b0 = umask
+0x14c0 = time
+0x14d0 = __xstat
+0x14e0 = random
+0x14f0 = fflush
+0x1500 = uuid_generate_random
+0x1510 = fdopen
+0x1520 = __uuid_generate_random
+0x1530 = open
+0x1540 = jrand48
+0x1550 = strtoul
+0x1560 = flock
+0x1570 = sprintf
+0x1580 = getppid
+0x1590 = connect
+0x15a0 = fwrite
+0x15b0 = getrandom
+0x15c0 = __ctype_b_loc
+0x15d0 = socket
+
+[disas-errors]
+
+[non-voids]
+0x1300 = _init
+0x15e0 = targ15e0
+0x15f0 = deregister_tm_clones
+0x1620 = register_tm_clones
+0x16a0 = frame_dummy
+0x16c0 = uuid_compare
+0x1730 = uuid_copy
+0x1750 = get_node_id.constprop.0
+0x1880 = __uuid_generate_time
+0x1e60 = uuid_generate_time_generic
+0x2270 = uuid_generate_time
+0x2280 = uuid_generate_time_safe
+0x2330 = uuid_generate_random
+0x2350 = uuid_generate
+0x23c0 = uuid_is_null
+0x23f0 = uuid_pack
+0x2430 = uuid_parse
+0x2580 = uuid_unpack
+0x25c0 = uuid_unparse_x
+0x2630 = uuid_unparse_lower
+0x2640 = uuid_unparse_upper
+0x2650 = uuid_unparse
+0x2660 = uuid_time
+0x26f0 = uuid_type
+0x2710 = uuid_variant
+0x2750 = crank_random
+0x2800 = rand_get_number
+0x2830 = random_get_fd
+0x28b0 = random_get_bytes
+0x29d0 = random_tell_source
+
+[non-void-icalls]
+
+[prof-goals]
+0x1310 = _init.0 -> 0x1300 = _init

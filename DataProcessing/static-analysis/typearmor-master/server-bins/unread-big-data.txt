@@ -1,0 +1,6 @@
+cat-clang-O2#rpl_mbrtowc pointer pointer int pointer 
+cat-clang-O2#fdadvise int int int enum 
+cat-clang-O2#hard_locale int 
+cat-clang-O2#rpl_mbrtowc pointer pointer int pointer 
+cat-clang-O2#fdadvise int int int enum 
+cat-clang-O2#hard_locale int 

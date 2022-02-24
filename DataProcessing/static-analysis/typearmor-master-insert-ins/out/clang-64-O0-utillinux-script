@@ -1,0 +1,903 @@
+Object: clang-64-O0-utillinux-script
+Functions: 130
+
+[varargs]
+
+[args]
+0x401770 = 0 (_init) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x401ca0 = 3 (_start) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 401ca2 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x401cd0 = 4 (_dl_relocate_static_pie) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 401cd0 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x401ce0 = 0 (deregister_tm_clones) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x401d10 = 0 (register_tm_clones) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x401d50 = 0 (__do_global_dtors_aux) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x401d80 = 0 (frame_dummy) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x401d90 = 2 (main) 
+reading for register 0: 401da4 
+reading for register 1: 401da7 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402330 = 0 (close_stdout) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4023d0 = 0 (script_init_debug) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402450 = 1 (usage) 
+reading for register 0: 402458 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402580 = 1 (die_if_link) 
+reading for register 0: 40258b 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402620 = 1 (getmaster) 
+reading for register 0: 40262a 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4027f0 = 1 (fixtty) 
+reading for register 0: 4027f8 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402870 = 0 (ul_debug) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4029f0 = 1 (fail) 
+reading for register 0: 4029f8 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402a80 = 1 (do_shell) 
+reading for register 0: 402a88 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x402c70 = 1 (do_io) 
+reading for register 0: 402c7f 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4035d0 = 1 (close_stream) 
+reading for register 0: 4035d8 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403690 = 2 (ul_debug_parse_envmask) 
+reading for register 0: 40369a 
+reading for register 1: 40369e 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403830 = 1 (done) 
+reading for register 0: 403838 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403a30 = 1 (getslave) 
+reading for register 0: 403a38 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403a60 = 3 (handle_io) 
+reading for register 0: 403a6b 
+reading for register 1: 403a6f 
+reading for register 2: 403a72 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403cf0 = 1 (write_eof_to_shell) 
+reading for register 0: 403cf8 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x403f50 = 2 (handle_signal) 
+reading for register 0: 403f5b 
+reading for register 1: 403f5f 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4042b0 = 2 (wait_for_child) 
+reading for register 0: 4042ba 
+reading for register 1: 4042be 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404380 = 3 (write_to_shell) 
+reading for register 0: 404388 
+reading for register 1: 40438c 
+reading for register 2: 404390 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4043b0 = 3 (write_output) 
+reading for register 0: 4043bb 
+reading for register 1: 4043bf 
+reading for register 2: 4043c3 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404800 = 3 (write_all) 
+reading for register 0: 404808 
+reading for register 1: 40480b 
+reading for register 2: 40480f 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4048d0 = 1 (xusleep) 
+reading for register 0: 4048dc 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404920 = 4 (fwrite_all) 
+reading for register 0: 404928 
+reading for register 1: 40492c 
+reading for register 2: 404930 
+reading for register 3: 404934 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404a00 = 1 (get_boot_time) 
+reading for register 0: 404a0f 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404b30 = 1 (gettime_monotonic) 
+reading for register 0: 404b38 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x404b80 = 2 (parse_timestamp) 
+reading for register 0: 404b8b 
+reading for register 1: 404b8f 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4053e0 = 2 (parse_sec) 
+reading for register 0: 4053e8 
+reading for register 1: 4053ec 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x405720 = 2 (endswith) 
+reading for register 0: 405728 
+reading for register 1: 40572c 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x405830 = 2 (startswith_no_case) 
+reading for register 0: 405838 
+reading for register 1: 40583c 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x4058d0 = 4 (strtimeval_iso) 
+reading for register 0: 4058d8 
+reading for register 1: 4058dc 
+reading for register 2: 4058df 
+reading for register 3: 4058e3 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x405960 = 5 (format_iso_time) 
+reading for register 0: 405968 
+reading for register 1: 40596c 
+reading for register 2: 405970 
+reading for register 3: 405973 
+reading for register 4: 405977 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x405c40 = 4 (strtm_iso) 
+reading for register 0: 405c4d 
+reading for register 1: 405c51 
+reading for register 2: 405c54 
+reading for register 3: 405c58 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x405c80 = 4 (strtime_iso) 
+reading for register 0: 405c88 
+reading for register 1: 405c8c 
+reading for register 2: 405c8f 
+reading for register 3: 405c93 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x405d10 = 2 (time_is_today) 
+reading for register 0: 405d18 
+reading for register 1: 405d1c 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x405d80 = 2 (time_is_thisyear) 
+reading for register 0: 405d88 
+reading for register 1: 405d8c 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x405df0 = 5 (strtime_short) 
+reading for register 0: 405dfb 
+reading for register 1: 405dff 
+reading for register 2: 405e03 
+reading for register 3: 405e06 
+reading for register 4: 405e0a 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x405f30 = 2 (startswith) 
+reading for register 0: 405f38 
+reading for register 1: 405f3c 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x405fd0 = 3 (__libc_csu_init) 
+reading for register 0: 405feb 
+reading for register 1: 405fee 
+reading for register 2: 405fd4 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x406040 = 4 (__libc_csu_fini) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 406040 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x406050 = 0 (atexit) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x406060 = 2 (lstat) 
+reading for register 0: 406063 
+reading for register 1: 406060 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+0x406070 = 0 (_fini) 
+reading for register 0: 
+reading for register 1: 
+reading for register 2: 
+reading for register 3: 
+reading for register 4: 
+reading for register 5: 
+reading for register 6: 
+reading for register 7: 
+reading for register 8: 
+reading for register 9: 
+reading for register 10: 
+reading for register 11: 
+reading for register 12: 
+reading for register 13: 
+
+[icall-args]
+0x401780 = 6 (_init.0)
+0x401cc4 = 6 (_start.0)
+0x406019 = 3 (__libc_csu_init.0)
+
+[plts]
+0x4017a0 = getenv
+0x4017b0 = sigprocmask
+0x4017c0 = free
+0x4017d0 = localtime
+0x4017e0 = abort
+0x4017f0 = __errno_location
+0x401800 = fdatasync
+0x401810 = strncmp
+0x401820 = localtime_r
+0x401830 = _exit
+0x401840 = __fpending
+0x401850 = warn
+0x401860 = ferror
+0x401870 = isatty
+0x401880 = write
+0x401890 = getpid
+0x4018a0 = textdomain
+0x4018b0 = fclose
+0x4018c0 = wait3
+0x4018d0 = bindtextdomain
+0x4018e0 = strlen
+0x4018f0 = __lxstat
+0x401900 = getopt_long
+0x401910 = errx
+0x401920 = gettext
+0x401930 = dup2
+0x401940 = printf
+0x401950 = warnx
+0x401960 = snprintf
+0x401970 = nanosleep
+0x401980 = strrchr
+0x401990 = gettimeofday
+0x4019a0 = __assert_fail
+0x4019b0 = fputs
+0x4019c0 = memset
+0x4019d0 = signalfd
+0x4019e0 = ioctl
+0x4019f0 = close
+0x401a00 = setsid
+0x401a10 = strspn
+0x401a20 = fputc
+0x401a30 = strtok_r
+0x401a40 = read
+0x401a50 = strndup
+0x401a60 = memcmp
+0x401a70 = strcmp
+0x401a80 = signal
+0x401a90 = strtoll
+0x401aa0 = fprintf
+0x401ab0 = sigemptyset
+0x401ac0 = memcpy
+0x401ad0 = kill
+0x401ae0 = openpty
+0x401af0 = time
+0x401b00 = err
+0x401b10 = strncasecmp
+0x401b20 = fflush
+0x401b30 = clock_gettime
+0x401b40 = mktime
+0x401b50 = cfmakeraw
+0x401b60 = setlocale
+0x401b70 = poll
+0x401b80 = strftime
+0x401b90 = tcgetattr
+0x401ba0 = tcsetattr
+0x401bb0 = access
+0x401bc0 = fopen
+0x401bd0 = gmtime
+0x401be0 = vfprintf
+0x401bf0 = strtoul
+0x401c00 = __cxa_atexit
+0x401c10 = sysinfo
+0x401c20 = exit
+0x401c30 = fwrite
+0x401c40 = strdup
+0x401c50 = execlp
+0x401c60 = execl
+0x401c70 = strptime
+0x401c80 = sigaddset
+0x401c90 = fork
+
+[disas-errors]
+
+[non-voids]
+0x401770 = _init
+0x401ca0 = _start
+0x401ce0 = deregister_tm_clones
+0x401d10 = register_tm_clones
+0x401d80 = frame_dummy
+0x401d90 = main
+0x402330 = close_stdout
+0x4023d0 = script_init_debug
+0x402450 = usage
+0x402580 = die_if_link
+0x402620 = getmaster
+0x4027f0 = fixtty
+0x402870 = ul_debug
+0x4029f0 = fail
+0x402a80 = do_shell
+0x402c70 = do_io
+0x4035d0 = close_stream
+0x403690 = ul_debug_parse_envmask
+0x403830 = done
+0x403a30 = getslave
+0x403a60 = handle_io
+0x403cf0 = write_eof_to_shell
+0x403f50 = handle_signal
+0x4042b0 = wait_for_child
+0x404380 = write_to_shell
+0x4043b0 = write_output
+0x404800 = write_all
+0x4048d0 = xusleep
+0x404920 = fwrite_all
+0x404a00 = get_boot_time
+0x404b30 = gettime_monotonic
+0x404b80 = parse_timestamp
+0x4053e0 = parse_sec
+0x405720 = endswith
+0x405830 = startswith_no_case
+0x4058d0 = strtimeval_iso
+0x405960 = format_iso_time
+0x405c40 = strtm_iso
+0x405c80 = strtime_iso
+0x405d10 = time_is_today
+0x405d80 = time_is_thisyear
+0x405df0 = strtime_short
+0x405f30 = startswith
+0x405fd0 = __libc_csu_init
+0x406050 = atexit
+0x406060 = lstat
+
+[non-void-icalls]
+
+[prof-goals]
+0x401780 = _init.0 -> 0x405fd0 = __libc_csu_init
+0x401cc4 = _start.0 -> 0x401ca0 = _start
+
+[unused]
+
+[done]
